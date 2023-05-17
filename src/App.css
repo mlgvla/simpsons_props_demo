@@ -16,7 +16,8 @@ h1.main-title {
 .container {
    display: grid;
    grid-template-columns: 1fr;
-   grid-gap: 75px;
+   column-gap: 75px;
+   row-gap: 75px;
    justify-items: center;
    /* padding: 20px; */
 }
