@@ -3,12 +3,13 @@
 }
 
 body {
-  padding: 50px;
+  padding: 25px 50px;
   background-color: lightgoldenrodyellow;
 }
 
 h1.main-title {
-  margin: 50px;
+  margin-top: 10px;
+  margin-bottom: 50px;
 }
 
 /* Mobile styles */

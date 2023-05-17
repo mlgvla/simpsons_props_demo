@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Quote({quotes}) {
+function Quote({quote}) {
   return (
-    <div>Quote</div>
+    <p>{quote}</p>
   )
 }
 
