@@ -4,8 +4,6 @@ import Quote from "./Quote"
 function Character({ character, showQuotes = true }) {
    const { name, image, quotes } = character
 
-   //    const quotePs = quotes.map((quote, index) => <p key={index}>{quote}</p>)
-
    return (
       <div className="card">
          <img src={image} alt={name} />
