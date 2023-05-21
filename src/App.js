@@ -1,5 +1,4 @@
 import "./App.css"
-import { characters } from "./data"
 
 function App() {
    return (
