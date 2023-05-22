@@ -4,8 +4,10 @@
 
 [] Create a Character component
     [] div with className "card"
-    [] img with image as src and name as alt
-    [] h2 for name
+
+    Child Elements:
+        [] img with image as src and name as alt
+        [] h2 for name
 
 [] Use props to pass character data to Character component
     [] Use destructuring to create variables
